@@ -1,5 +1,3 @@
-# 🧠 Machine Learning Pipeline
-
 This repository contains the complete workflow for data preparation, transformation, feature selection, and model training for our machine learning project.
 
 ---
